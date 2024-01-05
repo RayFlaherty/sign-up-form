@@ -1,0 +1,16 @@
+form {
+  border: solid;
+  border-radius: 10px;
+  height: auto;
+  align-content: center;
+  width: fit-content;
+  background-color: darkgray;
+  padding: 20px;
+}
+
+.name,
+.security,
+.actions {
+  display: flex;
+  padding: 2%;
+}
