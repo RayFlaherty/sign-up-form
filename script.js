@@ -10,7 +10,7 @@ function logIt() {
   console.log(password.value);
 }
 
-document.getElementById("submitBTN").addEventListener("click", () => {
+document.getElementById("enterBTN").addEventListener("click", () => {
   logIt();
 });
 
