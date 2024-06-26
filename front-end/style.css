@@ -1,4 +1,11 @@
+body {
+  margin: 50px 0px;
+  padding: 0px;
+  text-align: center;
+  align: center;
+}
 .form {
+  display: inline-block;
   border: solid;
   border-radius: 10px;
   height: auto;
